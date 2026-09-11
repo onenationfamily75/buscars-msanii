@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://buscaronlinebooking.site/</loc>
     <lastmod>2026-09-11</lastmod>
-  </url>
-
-  <url>
-    <loc>https://buscaronlinebooking.site/about</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-
-  <url>
-    <loc>https://buscaronlinebooking.site/routes</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-
-  <url>
-    <loc>https://buscaronlinebooking.site/booking</loc>
-    <lastmod>2026-09-11</lastmod>
-  </url>
-
-  <url>
-    <loc>https://buscaronlinebooking.site/contact</loc>
-    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 
 </urlset>
-
