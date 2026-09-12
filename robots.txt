@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buscargo.online/sitemap.xml
+Sitemap: https://buscaronlinebooking.site/sitemap.xml
 
